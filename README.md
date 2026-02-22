@@ -24,3 +24,4 @@ This project helped me understand important concepts such as real-time data sync
 
 Through this task, I gained practical experience in developing a real-time application where multiple users can interact with the same content simultaneously. Overall, this project strengthened my understanding of modern web development and real-time technologies.
 
+<img width="910" height="634" alt="Image" src="https://github.com/user-attachments/assets/0b5c1ebf-45ce-4c91-ae8f-746d98097707" />
